@@ -13,7 +13,7 @@ Create a preferences schema in `config.json` using
 ```
 {
   "myCustomPrefs": {
-    "type: "object",
+    "type": "object",
     "title": "Custom Preferences",
     "properties": {
       "homepage": {
